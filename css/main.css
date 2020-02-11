@@ -1,0 +1,69 @@
+body {
+  background-color: #2b2836;
+}
+
+.siteLinks {
+  max-width: 1210px;
+  margin: 50px auto;
+}
+.siteLinks .heading {
+  font-size: 18px;
+  font-weight: lighter;
+  text-transform: uppercase;
+  color: white;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(171, 14, 192, 0.192);
+}
+.siteLinks .heading span {
+  color: #ab0ec0;
+}
+.siteLinks .buttons {
+  display: flex;
+  padding: 30px 0;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.siteLinks .buttons a {
+  text-decoration: none;
+  margin: 20px auto;
+}
+.siteLinks .buttons .button {
+  text-align: center;
+  color: white;
+  background-color: #302f3e;
+  padding: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.siteLinks .buttons .button .title, .siteLinks .buttons .button .code {
+  font-size: 17px;
+  font-weight: lighter;
+}
+.siteLinks .buttons .button .code {
+  font-size: 15px;
+  color: rgba(253, 250, 255, 0.26);
+}
+.siteLinks .buttons .button .bonus {
+  padding: 5px 30px;
+  border: 0;
+  background-color: #f3b563;
+  color: #1f1a25;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+.siteLinks .buttons .button .img {
+  max-width: 100px;
+  margin: 20px auto;
+}
+.siteLinks .buttons .button .img img {
+  width: 100%;
+}
+.siteLinks .buttons .button:hover {
+  transform: translateY(-15px);
+  box-shadow: 0 20px 10px rgba(17, 17, 17, 0.349);
+}
+
+/*# sourceMappingURL=main.css.map */
