@@ -42,12 +42,12 @@ main .popup .content a button {
   margin: 10px;
   background-color: rgba(0, 0, 0, 0);
   color: white;
-  border: 1px solid black;
+  border: 1px solid #f3f3f3;
   font-size: 16px;
   transition: background-color 0.2s;
 }
 main .popup .content a button:hover {
-  background-color: black;
+  background-color: #2b2836;
   cursor: pointer;
 }
 

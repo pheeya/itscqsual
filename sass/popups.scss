@@ -40,12 +40,12 @@ margin:auto;
                 margin:10px;
                 background-color:rgba(0,0,0,0);
                 color:white;
-                border:1px solid black;
+                border:1px solid rgb(243, 243, 243);
                 font-size:16px;
                 transition: background-color .2s;
             }
             button:hover{
-                background-color:black;
+                background-color:#2b2836;
                 cursor: pointer;
             }
         }
