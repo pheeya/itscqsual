@@ -4,7 +4,8 @@ body {
 
 .siteLinks {
   max-width: 1210px;
-  margin: 50px auto;
+  margin: 30px auto;
+  padding: 30px;
 }
 .siteLinks .heading {
   font-size: 18px;
